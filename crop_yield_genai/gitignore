@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+outputs/models/*.tmp
+outputs/figures/*.tmp
+*.pyc
+.DS_Store
+.vscode/
+.env
+*.log
+# Optional: ignore large intermediate data files
+data/*.parquet
+data/*.feather
